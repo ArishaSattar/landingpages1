@@ -1,0 +1,120 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.navparent{
+    background-image: url(images/pexels-scott-webb-305821.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 833px;
+}
+.navbar{ 
+    
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+#logo{
+    font-size: 22px;
+}
+ #list{
+    margin-left: 570px;
+}
+#list a{
+    margin-left: 15px;
+    text-decoration: none;
+    color: rgba(109, 113, 117, 0.904);
+} 
+#list a:hover{
+    color: black;
+}
+.contant{
+    height: 555px;
+}
+.contant h1 {
+    margin-left: 97px;
+    margin-top: 130px;
+    font-size: 61px;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+font-family: 'Work Sans', sans-serif;
+
+    font-weight: 500;
+}
+.contant p{
+   
+    margin-top: 29px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 500;
+    line-height: 25px;
+    font-size: 18px;
+    color: gray;
+    margin-left: 97px;
+}
+.contant button{
+    width: 135px;
+    height: 48px;
+    margin-left: 107px;
+    margin-top: 42px;
+    background-color: #02a9ed;
+    border: 1px solid #02a9ed;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 11px;
+    cursor: pointer;
+}
+button:hover{
+    color: brown;
+}
+.footer{
+    background-color: white;
+    display: flex;
+    margin-left: 75px;
+    margin-right: 75px;
+    cursor: pointer;
+}
+.footer .head{
+    margin: 20px;
+    font-size: 18px;
+    font-weight: 800;
+}
+.footer.para{
+    margin-left: 68px;
+    line-height: 5px;
+    font-family: 'Work Sans', sans-serif;;
+}
+li:hover{
+    color: black;
+}
+li{
+
+    list-style: none;
+}
+
+.footer ul{
+  margin-left: 100px;
+}
+.para{
+    color: gray;
+    line-height: 23px;
+}
+.fa-regular{
+         font-size: 33px;
+    margin-top: 20px;
+    margin-left: 66px;
+   color: #80808087;
+}
+
+.fa-solid{
+    font-size: 33px;
+    margin-top: 20px;
+    margin-left: 66px;
+    color:#80808087;
+}
+.fa-solid{
+    font-size: 33px;
+    margin-top: 20px;
+    margin-left: 66px;
+    color: #80808087;
+}
